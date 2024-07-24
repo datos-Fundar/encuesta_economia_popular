@@ -36,9 +36,9 @@ Bibtex:
 
 (nombre del archivo): Libro de códigos de la base de datos de la encuesta de la economía popular de la Ciudad de Buenos Aires (2023)
 
-(nombre del archivo): Cuestionario utilizado para la encuesta de la economía popular de la Ciudad de Buenos Aires (2023)
+"Cuestionario economía popular_final": Cuestionario utilizado para la encuesta de la economía popular de la Ciudad de Buenos Aires (2023)
 
-(nombre del archivo): Do file para replicar los análisis realizados en el documento: Avenburg, A.; Park, L.; Trombetta, M.; Migliore, M. y Poy, S. (2024). Lecciones aprendidas y desafíos actuales de los programas de empleo: Un análisis de Potenciar Trabajo en CABA. Fundar.
+"codigo_analisis_lecciones_aprendidas.do": Do file para replicar los análisis realizados en el documento: Avenburg, A.; Park, L.; Trombetta, M.; Migliore, M. y Poy, S. (2024). Lecciones aprendidas y desafíos actuales de los programas de empleo: Un análisis de Potenciar Trabajo en CABA. Fundar.
 
   
 
