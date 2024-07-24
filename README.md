@@ -3,7 +3,7 @@
 
 [![Encuesta de la Economía Popular de la Ciudad de Buenos Aires](https://fund.ar/wp-content/uploads/2023/07/EconomiaPopular-JuliAlvarez-RGB.jpg)](https://fund.ar/publicacion/lecciones-aprendidas-y-desafios-actuales-de-los-programas-de-empleo-un-analisis-de-potenciar-trabajo-en-caba/)
 
-En este repositorio se comparten los datos y código de la **Encuesta de la Economía Popular de la Ciudad de Buenos Aires (2023)** utilizados en el Documento **Lecciones aprendidas y desafíos actuales de los programas de empleo: un análisis de Potenciar Trabajo en CABA** [^1]. La encuesta fue llevada a cabo por [Fundar](https://fund.ar/) en la Ciudad Autónoma de Buenos Aires en el marco de un convenio con el Ministerio de Desarrollo Humano y Hábitat del Gobierno de la Ciudad Autónoma de Buenos Aires en los meses de mayo y julio de 2023. 
+En este repositorio se comparten los datos de la **Encuesta de la Economía Popular de la Ciudad de Buenos Aires (2023)** utilizados en el Documento **Lecciones aprendidas y desafíos actuales de los programas de empleo: un análisis de Potenciar Trabajo en CABA** [^1] junto con el código utilizado para los análisis del documento. La encuesta fue llevada a cabo por [Fundar](https://fund.ar/) en la Ciudad Autónoma de Buenos Aires en el marco de un convenio con el Ministerio de Desarrollo Humano y Hábitat del Gobierno de la Ciudad Autónoma de Buenos Aires en los meses de mayo y julio de 2023. Se comparte también el libro de códigos de la base de datos y el cuestionario utilizado para la encuesta.
  
 
 [^1]: [Avenburg, A.; Park, L.; Trombetta, M.; Migliore, M. y Poy, S. (2023). Lecciones aprendidas y desafíos
