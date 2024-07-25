@@ -38,7 +38,7 @@ Avenburg, Alejandro; Park, Leonardo; Trombetta, Martín (2024). Base de datos de
   - formato [`.csv`](https://raw.githubusercontent.com/datos-Fundar/encuesta-economia-popular/main/ecopop.csv)
     - Descripición de variables (auxiliar para el [formato `.csv`](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/ecopop_vars.csv))   
 
-- [Libro de códigos]()
+- [Libro de códigos](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/Encuesta_Eco_Pop_Libro-Codigo.pdf)
   
 
 - [Cuestionario](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/Cuestionario%20econom%C3%ADa%20popular_Final.pdf)
