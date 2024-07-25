@@ -41,7 +41,7 @@ Avenburg, Alejandro; Park, Leonardo; Trombetta, Martín (2024). Base de datos de
 - [Libro de códigos](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/Eco_Pop_Libro-Codigo.pdf)
   
 
-- [Cuestionario](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/Cuestionario%20econom%C3%ADa%20popular_Final.pdf)
+- [Cuestionario](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/Eco_Pop_Cuestionario.pdf)
 
 - [`codigo_analisis_lecciones_aprendidas.do`](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/codigo_analisis_lecciones_aprendidas.do): Código _Stata_ para replicar los análisis realizados en Avenburg et al. (2024) _Do-file_
 
