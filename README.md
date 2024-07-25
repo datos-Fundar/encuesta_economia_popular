@@ -9,10 +9,12 @@ En este repositorio se comparten los datos de la **Encuesta de la Economía Popu
 [^1]: [Avenburg, A.; Park, L.; Trombetta, M.; Migliore, M. y Poy, S. (2023). Lecciones aprendidas y desafíos
 actuales de los programas de empleo: Un análisis de Potenciar Trabajo en CABA. Fundar](https://fund.ar/publicacion/lecciones-aprendidas-y-desafios-actuales-de-los-programas-de-empleo-un-analisis-de-potenciar-trabajo-en-caba/)
 
-**Cita Sugerida:**
-```
+---
+**Cita Sugerida:** 
+
 Avenburg, Alejandro; Park, Leonardo; Trombetta, Martín (2024). Base de datos de la Encuesta de la Economía Popular de la Ciudad de Buenos Aires (2023). Fundar.
 
+```
 Bibtex:
 
 @report{ecopop2024base,
@@ -24,29 +26,20 @@ Bibtex:
 }
 
 ```
+---
+
 **Agradecimientos**:  a Daniela Risaro, Paula Luvini y Lucía Pezzarini por colaboración en el armado de la base de datos.
 
 
----
+**Encuesta de la Economía Popular de la Ciudad de Buenos Aires (2023)**.
 
+- Base de datos: 
+  - formato [`.dta`](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/ecopop.dta) 
+  - formato [`.csv`](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/eco.pop2.csv)
 
-(nombre archivo): Base de datos de la encuesta de la economía popular de la Ciudad de Buenos Aires (2023), formato .csv
+- [Libro de códigos]()
 
-(nombre del archivo): Base de datos de la encuesta de la economía popular de la Ciudad de Buenos Aires (2023), formato .dta
+- [Cuestionario](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/Cuestionario%20econom%C3%ADa%20popular_Final.pdf)
 
-(nombre del archivo): Libro de códigos de la base de datos de la encuesta de la economía popular de la Ciudad de Buenos Aires (2023)
+- [`codigo_analisis_lecciones_aprendidas.do`](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/codigo_analisis_lecciones_aprendidas.do): Código _Stata_ para replicar los análisis realizados en Avenburg et al. (2024) _Do-file_
 
-"Cuestionario economía popular_final": Cuestionario utilizado para la encuesta de la economía popular de la Ciudad de Buenos Aires (2023)
-
-"codigo_analisis_lecciones_aprendidas.do": Do file para replicar los análisis realizados en el documento: Avenburg, A.; Park, L.; Trombetta, M.; Migliore, M. y Poy, S. (2024). Lecciones aprendidas y desafíos actuales de los programas de empleo: Un análisis de Potenciar Trabajo en CABA. Fundar.
-
-  
-
-
-**Producción del Repositorio de Datos**: Alejandro Avenburg, Leonardo Park y Martín Trombetta. 
-
-- [Base de datos de la encuesta de la economía popular de la Ciudad de Buenos Aires (2023), formato .csv]()
-- [Base de datos de la encuesta de la economía popular de la Ciudad de Buenos Aires (2023), formato .dta]()
-- [Libro de códigos de la base de datos de la encuesta de la economía popular de la Ciudad de Buenos Aires (2023)]()
-- [Cuestionario utilizado para la encuesta de la economía popular de la Ciudad de Buenos Aires (2023)]()
-- [Do file para replicar análisis]()
