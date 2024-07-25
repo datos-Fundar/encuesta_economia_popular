@@ -14,8 +14,8 @@ actuales de los programas de empleo: Un análisis de Potenciar Trabajo en CABA. 
 
 Avenburg, Alejandro; Park, Leonardo; Trombetta, Martín (2024). Base de datos de la Encuesta de la Economía Popular de la Ciudad de Buenos Aires (2023). Fundar.
 
-```
-Bibtex:
+```bibtex
+
 
 @report{ecopop2024base,
   author    = {Avenburg, Alejandro; Park, Leonardo; Trombetta, Martín.},
@@ -34,10 +34,12 @@ Bibtex:
 **Encuesta de la Economía Popular de la Ciudad de Buenos Aires (2023)**.
 
 - Base de datos: 
-  - formato [`.dta`](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/ecopop.dta) 
-  - formato [`.csv`](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/eco.pop2.csv)
+  - formato [`.dta`](https://raw.githubusercontent.com/datos-Fundar/encuesta-economia-popular/main/ecopop.dta) 
+  - formato [`.csv`](https://raw.githubusercontent.com/datos-Fundar/encuesta-economia-popular/main/ecopop.csv)
+    - Descripición de variables (auxiliar para el [formato `.csv`](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/ecopop_vars.csv))   
 
 - [Libro de códigos]()
+  
 
 - [Cuestionario](https://github.com/datos-Fundar/encuesta-economia-popular/blob/main/Cuestionario%20econom%C3%ADa%20popular_Final.pdf)
 
