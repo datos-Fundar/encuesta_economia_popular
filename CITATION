@@ -13,8 +13,17 @@ url: "https://fund.ar/publicacion/economia-popular-caba/"
 identifiers:
   - description: "Datos de la Encuesta de la Economía Popular de la Ciudad de Buenos Aires (2023) realizada sobre 1800 casos en los meses de mayo a julio 2023"
     type: doi
-    value:  10.5281/zenodo.12827870  // 
+    value:  10.5281/zenodo.12827870 
+
 authors:
-  // Avenburg, Alejandro; Park, Leonardo; Trombetta, Martín. 
+  - given-names: "Alejandro"
+    family-names: "Avenburg"
+    affiliation: "Fundar"
+  
+  - given-names: "Leonardo"
+    family-names: "Park"
     affiliation: "Fundar"
     
+  - given-names: "Martín"
+    family-names: "Trombetta"
+    affiliation: "Fundar"
