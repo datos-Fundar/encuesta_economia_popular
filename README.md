@@ -4,6 +4,7 @@
 [![Encuesta de la Economía Popular de la Ciudad de Buenos Aires](https://fund.ar/wp-content/uploads/2023/07/EconomiaPopular-JuliAlvarez-RGB.jpg)](https://fund.ar/publicacion/lecciones-aprendidas-y-desafios-actuales-de-los-programas-de-empleo-un-analisis-de-potenciar-trabajo-en-caba/)
 
 [![DOI](https://zenodo.org/badge/833154715.svg)](https://zenodo.org/doi/10.5281/zenodo.12827870)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
 
@@ -16,7 +17,10 @@ actuales de los programas de empleo: Un análisis de Potenciar Trabajo en CABA. 
 ---
 **Cita Sugerida:** 
 
+```
 Avenburg, Alejandro; Park, Leonardo; Trombetta, Martín (2024). Base de datos de la Encuesta de la Economía Popular de la Ciudad de Buenos Aires (2023). Fundar.
+
+```
 
 ```bibtex
 
